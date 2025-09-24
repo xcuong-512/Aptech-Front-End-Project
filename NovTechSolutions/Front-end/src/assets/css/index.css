@@ -56,6 +56,12 @@ html {
     font-size: 20px;
 }
 
+.card:hover {
+    transform: scale(1.1);
+    transition: 1.1s;
+    cursor: pointer;
+}
+
 .expert-section {
     width: 400px;
     background-color: #0d6efd;
