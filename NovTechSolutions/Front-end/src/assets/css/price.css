@@ -1,0 +1,65 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.box-space {
+    height: 200px;
+}
+
+.grey {
+    color: grey;
+}
+
+.navbar-nav > li:hover a{
+    border-bottom: 1px solid black;
+}
+
+.language-btn {
+    margin-right: 15px;
+    cursor: pointer;
+}
+
+.main {
+    margin-top: 120px;
+}
+
+.form-section {
+    background-color: #0d6efd;
+    color: #fff;
+    padding: 60px;
+}
+
+.form-container {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    background: #fff;
+    padding: 40px;
+    border-radius: 20px;
+    color: #000;
+    margin-top: 30px;
+}
+
+.form-section .form-container .btn:hover {
+    transform: scale(1.05);
+    transition: 0.6s;
+}
+
+.footer {
+    background-color: #2f3b4a;
+    color: #fff;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer li {
+    margin-bottom: 20px;
+}
+
+.footer .social-icon a{
+    font-size: 25px;
+}
